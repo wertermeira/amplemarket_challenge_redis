@@ -3,7 +3,6 @@
 #### To run challenge
 
 ruby ./challenge.rb \
-
 Follow the commands below
 
 
